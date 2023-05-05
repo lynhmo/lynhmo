@@ -1,13 +1,18 @@
 
-# I'm Lynh
+# I'm Linh
 
 
-## 🚀 About Me
-I'm a student 3 years uni but cant make anything work
+## About Me
+I am a third-year university student and i cant make anything work
 
 
 ## skill
-i know how to search docs 
+i know how to search docs (mostly)
+
+## idk
+i like coding if there is someone code with me
+i like sweet drink 
+Sometime coffee
 
 
 ## 🔗 Links
