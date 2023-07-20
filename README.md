@@ -17,7 +17,7 @@ Sometime coffee
 
 ## 🔗 Links
 <a href="https://www.facebook.com/hnilutod"/>Facebook<a/>
-<a href="linhtudo2912@gmail.com"/>Gmail<a/>
+<b>linhtudo2912@gmail.com<b/>
 
 
 ![My git stats](https://github-readme-stats.vercel.app/api?username=lynhmo\&include_all_commits=true)
