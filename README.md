@@ -16,8 +16,14 @@ Sometime coffee
 
 
 ## 🔗 Links
-[![My git stats](https://github-readme-stats.vercel.app/api?username=lynhmo&show_icons=true&theme=transparent)](https://github.com/lynhmo)
+<a href="https://www.facebook.com/hnilutod"/>Facebook<a/>
+<a href="linhtudo2912@gmail.com"/>Gmail<a/>
+
+
+![My git stats](https://github-readme-stats.vercel.app/api?username=lynhmo\&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynhmo)](https://github.com/lynhmo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lynhmo&repo=meme)](https://github.com/lynhmo/meme)
+
+
