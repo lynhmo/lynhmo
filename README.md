@@ -16,6 +16,6 @@ Sometime coffee
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
+[![My git stats](https://github-readme-stats.vercel.app/api?username=lynhmo&show_icons=true&theme=transparent)](https://github.com/lynhmo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynhmo)](https://github.com/lynhmo)
+[![Lynh's alltime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lynhmo)](https://github.com/lynhmo)
