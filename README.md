@@ -20,4 +20,4 @@ Sometime coffee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynhmo)](https://github.com/lynhmo)
 
-[![Lynh's alltime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lynhmo)](https://github.com/lynhmo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lynhmo&repo=meme)](https://github.com/lynhmo/meme)
