@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am a third-year university student and i cant make anything work
+I am a fourth-year university student and i cant make anything work
 
 
 ## skill
