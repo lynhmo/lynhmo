@@ -27,6 +27,4 @@ Sometime coffee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynhmo)](https://github.com/lynhmo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lynhmo&repo=meme)](https://github.com/lynhmo/meme)
-
 
