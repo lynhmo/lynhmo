@@ -3,14 +3,13 @@
 
 
 ## About Me
-I am a fourth-year university student 
-Currently learning Java SpringBoot and some JS framework react, svelte,... but mainly java
+Đang học và sử dụng java, js\
+Có tí Spring boot với angular\
+
 
 ## skill
 i know how to search docs (mostly)
 
 
 ## 🔗 Links
-<a href="https://www.facebook.com/hnilutod"/>Facebook<a/>
-<br/>
 <b>linhdotu2912@gmail.com<b/>
