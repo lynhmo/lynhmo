@@ -4,7 +4,7 @@
 
 ## About Me
 Đang học và sử dụng java, js\
-Có tí Spring boot với angular\
+Có tí Spring boot với angular
 
 
 ## skill
